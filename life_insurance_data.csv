@@ -1,0 +1,31 @@
+﻿income_usd,property_status,has_life_insurance
+20500,Owner with Mortgage,0
+31500,Owner with Mortgage,1
+37000,Owner with Mortgage,0
+47000,Owner with Mortgage,1
+49000,Owner with Mortgage,0
+55000,Owner with Mortgage,1
+67500,Owner with Mortgage,1
+72000,Owner with Mortgage,1
+98000,Owner with Mortgage,1
+102000,Owner with Mortgage,1
+21000,Owner Without Mortgage,0
+33500,Owner Without Mortgage,0
+37500,Owner Without Mortgage,0
+45000,Owner Without Mortgage,0
+49500,Owner Without Mortgage,0
+56000,Owner Without Mortgage,1
+68500,Owner Without Mortgage,0
+77000,Owner Without Mortgage,0
+98000,Owner Without Mortgage,1
+99500,Owner Without Mortgage,1
+10000,Renter,0
+26500,Renter,0
+37500,Renter,0
+43000,Renter,0
+47500,Renter,0
+51500,Renter,0
+60500,Renter,0
+71500,Renter,1
+92000,Renter,0
+93500,Renter,1
